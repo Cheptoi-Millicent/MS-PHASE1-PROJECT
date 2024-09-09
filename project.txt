@@ -1,0 +1,9 @@
+c)Business Problem/ Understanding:
+a)Data Understanding: Shape, Head, Tail, Columns 
+   Problem Statement: What is the problem in the current situation.&& How you'll solve it
+   Metric of success: Analysis- project success is dependent on the factors you are going to use
+b)Data Preparation: Data cleaning, EDA
+
+
+Descriptive Analytics:
+Important prescriptive analytics---where you'll give recommendations 
