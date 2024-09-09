@@ -55,7 +55,9 @@ Filling the missing values with any value
 
 ![output 3](https://github.com/user-attachments/assets/5b0fe1af-6eff-4650-b435-c6748864f867)
 
+# Interactive Dashboard
 
+https://public.tableau.com/app/profile/millicent.cheptoi/viz/FinalDashboardPhase1/FINAL
 
 # Conclusions
 
