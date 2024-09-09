@@ -1,0 +1,21 @@
+ProductID,ProductName,Category,Price,Quantity,Supplier
+1,Apple iPhone 12,Electronics,799,50,Apple Inc.
+2,Samsung Galaxy S21,Electronics,699,75,Samsung
+3,HP Pavilion Laptop,Electronics,599,30,HP
+4,Adidas Running Shoes,Footwear,120,100,Adidas
+5,Nike Air Max,Footwear,150,80,Nike
+6,Levi's Jeans,Clothing,70,200,Levi's
+7,Calvin Klein T-Shirt,Clothing,35,150,Calvin Klein
+8,Apple iPad Pro,Electronics,999,40,Apple Inc.
+9,Samsung Galaxy Tab S7,Electronics,649,60,Samsung
+10,Dell XPS Laptop,Electronics,999,20,Dell
+11,Puma Sports Shoes,Footwear,90,120,Puma
+12,Under Armour T-Shirt,Clothing,30,180,Under Armour
+13,Apple MacBook Pro,Electronics,1299,15,Apple Inc.
+14,Samsung QLED TV,Electronics,1299,10,Samsung
+15,HP Envy Printer,Electronics,199,35,HP
+16,Adidas Soccer Ball,Sports,25,300,Adidas
+17,Nike Basketball,Sports,30,250,Nike
+18,Levi's Jacket,Clothing,120,100,Levi's
+19,Calvin Klein Jeans,Clothing,80,120,Calvin Klein
+20,Apple AirPods Pro,Electronics,249,70,Apple Inc.

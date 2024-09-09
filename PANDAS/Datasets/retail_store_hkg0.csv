@@ -1,0 +1,31 @@
+ProductID,ProductName,Category,Price,Sales
+1,Apple,Produce,1.00,100
+2,Banana,Produce,0.50,200
+3,Carrot,Produce,0.75,150
+4,Detergent,Cleaning,3.00,50
+5,Toothpaste,Personal Care,2.00,75
+6,Shampoo,Personal Care,4.00,80
+7,Chicken,Meat,5.00,60
+8,Beef,Meat,6.00,40
+9,Pork,Meat,5.50,45
+10,Salmon,Seafood,8.00,30
+11,Shrimp,Seafood,10.00,20
+12,Cod,Seafood,7.00,35
+13,Beer,Beverages,3.50,100
+14,Wine,Beverages,10.00,60
+15,Whiskey,Beverages,20.00,40
+16,Bread,Bakery,2.50,120
+17,Cake,Bakery,15.00,30
+18,Cookies,Bakery,3.00,90
+19,Milk,Dairy,2.00,100
+20,Cheese,Dairy,3.00,80
+21,Yogurt,Dairy,1.50,120
+22,Butter,Dairy,2.50,70
+23,Eggs,Dairy,2.00,150
+24,Cereal,Breakfast,3.50,80
+25,Oatmeal,Breakfast,2.00,90
+26,Orange Juice,Beverages,3.00,85
+27,Apple Juice,Beverages,2.50,95
+28,Coffee,Beverages,5.00,100
+29,Tea,Beverages,2.50,110
+30,Water,Beverages,1.00,200

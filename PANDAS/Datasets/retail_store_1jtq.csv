@@ -1,0 +1,21 @@
+ProductID,ProductName,Category,Price,QuantitySold,DateSold
+1001,Apple iPhone 12,Electronics,799,50,2022-01-01
+1002,Samsung Galaxy S21,Electronics,699,30,2022-01-02
+1003,HP Pavilion Laptop,Electronics,599,20,2022-01-03
+1004,Sony 4K TV,Electronics,999,15,2022-01-04
+1005,Nike Running Shoes,Clothing,120,100,2022-01-05
+1006,Levi's Jeans,Clothing,45,80,2022-01-06
+1007,Adidas T-Shirt,Clothing,25,120,2022-01-07
+1008,Rolex Watch,Accessories,5000,5,2022-01-08
+1009,Gucci Handbag,Accessories,800,10,2022-01-09
+1010,Prada Sunglasses,Accessories,200,30,2022-01-10
+1011,Apple MacBook Pro,Electronics,1299,25,2022-01-11
+1012,Dell XPS Laptop,Electronics,999,18,2022-01-12
+1013,Canon DSLR Camera,Electronics,699,12,2022-01-13
+1014,Nike Basketball Shoes,Clothing,130,90,2022-01-14
+1015,Adidas Sweatpants,Clothing,60,70,2022-01-15
+1016,Rolex Submariner,Accessories,8000,3,2022-01-16
+1017,Louis Vuitton Wallet,Accessories,500,20,2022-01-17
+1018,Ray-Ban Sunglasses,Accessories,150,40,2022-01-18
+1019,Apple iPad Pro,Electronics,799,35,2022-01-19
+1020,Samsung Galaxy Tab,Electronics,499,28,2022-01-20

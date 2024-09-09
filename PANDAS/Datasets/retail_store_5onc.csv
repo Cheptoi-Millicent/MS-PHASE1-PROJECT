@@ -1,0 +1,21 @@
+Product ID,Product Name,Category,Price,Quantity Sold,Date Sold
+1001,Apple iPhone 12,Electronics,799,50,2022-01-01
+1002,Samsung Galaxy S21,Electronics,699,45,2022-01-02
+1003,HP Pavilion Laptop,Electronics,599,30,2022-01-03
+1004,Apple MacBook Pro,Electronics,1299,20,2022-01-04
+1005,Sony PlayStation 5,Electronics,499,25,2022-01-05
+1006,Nike Air Max Shoes,Fashion,149,60,2022-01-06
+1007,Adidas Ultraboost Shoes,Fashion,179,55,2022-01-07
+1008,Levi's 501 Jeans,Fashion,69,70,2022-01-08
+1009,Calvin Klein T-Shirt,Fashion,29,80,2022-01-09
+1010,Ray-Ban Sunglasses,Fashion,153,65,2022-01-10
+1011,Apple iPad Pro,Electronics,799,40,2022-01-11
+1012,Microsoft Surface Pro,Electronics,899,35,2022-01-12
+1013,Apple AirPods Pro,Electronics,199,75,2022-01-13
+1014,Samsung Galaxy Buds,Electronics,129,70,2022-01-14
+1015,Apple Watch Series 6,Electronics,399,45,2022-01-15
+1016,Fossil Men's Watch,Fashion,199,50,2022-01-16
+1017,Michael Kors Women's Watch,Fashion,249,45,2022-01-17
+1018,Coach Handbag,Fashion,299,40,2022-01-18
+1019,Michael Kors Handbag,Fashion,349,35,2022-01-19
+1020,Apple iPhone 13,Electronics,999,30,2022-01-20
